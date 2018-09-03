@@ -2,8 +2,8 @@
 //  main.cpp
 //  assignment 3
 //
-//  Created by Joy Williams on 02/09/2018.
-//  Copyright © 2018 Joy Williams. All rights reserved.
+//  Created by ANDREW DEBRAH on 02/09/2018.
+//  Copyright © 2018 ANDREW DEBRAH. All rights reserved.
 //
 
 #include <iostream>
